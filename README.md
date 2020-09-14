@@ -1,3 +1,3 @@
-# RS SCHOOL REPOSITORIES
+# RS SCHOOL REPOSITORIES  
 
-[Resume](https://github.com/mrstatic23/rsschool-cv/cv)
+[CV](https://github.com/mrstatic23/rsschool-cv/cv)  
