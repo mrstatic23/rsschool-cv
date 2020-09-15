@@ -2,8 +2,9 @@
 
 1. Fomenko Alex
 2. Contacts:
-   - E-mail: ...
-   - Telegram: ...
+   - Telegram (main): @mrStatic23
+   - E-mail: mrstatic23@yandex.ru
+   - Discord: user0008#2791
 3. Info
    - Goals:
      - Structuring knowledge on front-end technologies
@@ -15,13 +16,17 @@
      - Teamwork
      - Purposefulness
 4. Skills:
-   - HTML/CSS - basic+
+   - HTML/CSS
+   - SCSS
+   - Flexbox
    - BEM
    - JS - basic+
-   - React - basic
+   - Figma
    - Git (GitLab, GitHub)
    - CI (GitLab) - basic
    - Regexp
+   - SQL
+   - Advanced Linux user
 5. Code examples
    - [Pokemon games (basic JS course)](https://github.com/mrstatic23/pokemon-games)
 6. Experience
