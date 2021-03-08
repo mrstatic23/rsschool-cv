@@ -10,7 +10,7 @@
 ![](./images/html-css/1.png)
 3. Deploy: [Link](https://mrstatic23.github.io/rsschool-cv/cv)
 4. Done: 08.03.2021 / deadline 08.03.2021
-5. Score: 
+5. Score: 100/100
 - [x] вёрстка валидная +10 ([Link](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmrstatic23.github.io%2Frsschool-cv%2F))
 - [x] вёрстка семантическая +10 (использованы: header, main, footer, section, time)
 - [x] используются заголовки h1-h6 +10 (использованы: h1, h2, h3, h4)
