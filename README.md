@@ -8,7 +8,7 @@
 1. Task: https://rolling-scopes-school.github.io/stage0/#/stage0/tasks/html-css
 2. Screenshot:
 ![](./images/html-css/1.png)
-3. Deploy: [Link](https://mrstatic23.github.io/rsschool-cv/cv)
+3. Deploy: [Link](https://mrstatic23.github.io/rsschool-cv/)
 4. Done: 08.03.2021 / deadline 08.03.2021
 5. Score: 100/100
 - [x] вёрстка валидная +10 ([Link](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmrstatic23.github.io%2Frsschool-cv%2F))
